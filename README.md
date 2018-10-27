@@ -1,7 +1,7 @@
 # eos-awesome-contracts
 List of open source contracts for EOSIO
 
-* https://github.com/EOSIO/eosio.contracts/issues
+* https://github.com/EOSIO/eosio.contracts
 
 * https://github.com/EOSLaoMao/BankofStaked-CE
 * https://github.com/EOSLaoMao/CronContract
