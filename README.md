@@ -36,3 +36,5 @@ List of open source contracts for EOSIO
 * https://github.com/ganjingcun/bet-death-causes
 
 * https://github.com/EOSpace/eospace-contracts
+
+* https://github.com/eostitan/delphioracle
