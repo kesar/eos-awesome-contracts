@@ -22,3 +22,17 @@ List of open source contracts for EOSIO
 * https://gitlab.com/EOSBetCasino/eosbetdice_public
 
 * https://github.com/EveripediaNetwork/Everipedia
+
+* https://github.com/unicoeos/eosio.nft
+
+* https://github.com/MitchPierias/Advanced-EOS-Examples
+
+* https://github.com/EOSMetal/tungsten
+
+* https://github.com/newbdez33/stablecoooin
+
+* https://github.com/GiggleAll/exchange
+
+* https://github.com/ganjingcun/bet-death-causes
+
+* https://github.com/EOSpace/eospace-contracts
