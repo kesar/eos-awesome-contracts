@@ -2,6 +2,7 @@
 List of open source contracts for EOSIO
 
 * https://github.com/EOSIO/eosio.contracts
+* https://github.com/EOSIO/eosio-card-game-repo
 
 * https://github.com/EOSLaoMao/BankofStaked-CE
 * https://github.com/EOSLaoMao/CronContract
