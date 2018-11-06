@@ -41,3 +41,5 @@ List of open source contracts for EOSIO
 * https://github.com/eostitan/delphioracle
 
 * https://github.com/ChainRift/RAMtoken
+
+* https://github.com/Dylan-Phoon/Eostrex-Smart-Contract
