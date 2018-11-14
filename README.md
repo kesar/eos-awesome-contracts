@@ -43,3 +43,9 @@ List of open source contracts for EOSIO
 * https://github.com/ChainRift/RAMtoken
 
 * https://github.com/Dylan-Phoon/Eostrex-Smart-Contract
+
+* https://github.com/abhi3700/My_Learning_EOS
+
+* https://github.com/OWDIN/owdin-contract
+
+* https://github.com/slowmist/eos-smart-contract-security-best-practices
