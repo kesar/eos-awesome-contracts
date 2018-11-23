@@ -51,3 +51,7 @@ List of open source contracts for EOSIO
 * https://github.com/abhi3700/My_Learning_EOS
 
 * https://github.com/slowmist/eos-smart-contract-security-best-practices
+
+* https://github.com/ProChain/ProRatingEOS
+
+* https://github.com/MrToph/cryptoship-contract
