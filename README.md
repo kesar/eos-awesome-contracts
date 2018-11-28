@@ -55,3 +55,11 @@ List of open source contracts for EOSIO
 * https://github.com/ProChain/ProRatingEOS
 
 * https://github.com/MrToph/cryptoship-contract
+
+* https://github.com/eosasia/eospixels
+
+* https://github.com/jsonsnow/lottery
+
+* https://github.com/trentlotteryteam/trentLotteryContract
+
+* https://github.com/lottery100/lottery100/
