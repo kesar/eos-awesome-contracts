@@ -38,6 +38,8 @@ List of open source contracts for EOSIO
 
 * https://github.com/EOSpace/eospace-contracts
 
+* https://github.com/itleaks/eos-contract
+
 * https://github.com/eostitan/delphioracle
 
 * https://github.com/ChainRift/RAMtoken
