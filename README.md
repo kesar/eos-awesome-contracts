@@ -65,3 +65,7 @@ List of open source contracts for EOSIO
 * https://github.com/trentlotteryteam/trentLotteryContract
 
 * https://github.com/lottery100/lottery100/
+
+* https://github.com/EOSVR/sidechain
+
+* https://github.com/PopeyedLocket/Token-Staking-Upgrade
