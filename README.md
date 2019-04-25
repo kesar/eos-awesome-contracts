@@ -69,3 +69,16 @@ List of open source contracts for EOSIO
 * https://github.com/EOSVR/sidechain
 
 * https://github.com/PopeyedLocket/Token-Staking-Upgrade
+
+* https://github.com/effectai/effect-network-eos
+
+* https://github.com/gtolarc/lottery_donate-contract
+
+* https://github.com/gtolarc/tic_tac_toe-contract
+
+* https://github.com/NoneAge/EOS_dApp_Security_Incident_Analysis
+
+* https://github.com/KyberNetwork/eos_smart_contracts
+
+* https://github.com/equilibrium-eosdt/eosdt
+
