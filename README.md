@@ -82,3 +82,9 @@ List of open source contracts for EOSIO
 
 * https://github.com/equilibrium-eosdt/eosdt
 
+* https://github.com/eos-geneva/escrowescrow
+
+* https://github.com/cc32d9/eos.apidirectory
+
+* https://github.com/cc32d9/eos.watchdoggiee
+
